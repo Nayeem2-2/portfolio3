@@ -42,7 +42,7 @@
 &lt;p&gt;Connect with me through the following platforms:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;GitHub&lt;/em&gt;: &lt;a href=&#34;https://github.com/Nayeem2-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/Nayeem2-2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;LinkedIn&lt;/em&gt;: &lt;a href=&#34;https://www.linkedin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;LinkedIn&lt;/em&gt;: &lt;a href=&#34;https://www.linkedin.com/in/nayeem-sarkar-b05a1a227/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linked-in-id&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Email&lt;/em&gt;: &lt;a href=&#34;mailto:nayeemsarkar07@gmail.com&#34;&gt;nayeemsarkar07@gmail.com&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Codeforces&lt;/em&gt;: &lt;a href=&#34;https://codeforces.com/profile/kuru_loli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;codeforces.com/profile/Nayeem2-2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -294,7 +294,7 @@
 
 
 
-&lt;div id=&#34;chart-687451932&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-312984567&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -312,7 +312,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-687451932&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-312984567&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
