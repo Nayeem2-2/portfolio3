@@ -23,9 +23,6 @@ highlight_name: true
 role: Bsc in Computer Science(Ongoing)
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
