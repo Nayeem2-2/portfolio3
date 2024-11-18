@@ -1,13 +1,13 @@
 ---
-title: PyTorch
+title: Tribute Page
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://388tributepage.netlify.app/
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+One of the pioneers of the modern computing, artificial intelligency and logic. Sir Alan Touring
 
 <!--more-->

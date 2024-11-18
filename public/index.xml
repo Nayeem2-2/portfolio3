@@ -34,6 +34,22 @@
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contacts/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contacts/</guid>
+      <description>&lt;h1 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h1&gt;
+&lt;p&gt;Connect with me through the following platforms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;GitHub&lt;/em&gt;: &lt;a href=&#34;https://github.com/Nayeem2-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/Nayeem2-2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;LinkedIn&lt;/em&gt;: &lt;a href=&#34;https://www.linkedin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Email&lt;/em&gt;: &lt;a href=&#34;mailto:nayeemsarkar07@gmail.com&#34;&gt;nayeemsarkar07@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Codeforces&lt;/em&gt;: &lt;a href=&#34;https://codeforces.com/profile/kuru_loli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;codeforces.com/profile/Nayeem2-2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
@@ -128,27 +144,27 @@
     </item>
     
     <item>
-      <title>Pandas</title>
+      <title>Product Landing Page</title>
       <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The most powerful consumer gaming cpu is here. Presenting Ryzen 7 9800x3d with 3d Vcache Technology&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
+      <title>Techanical Documentation Page</title>
       <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Technical Documentation Page for ryzen 7 9800x3d processor&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;One of the pioneers of the modern computing, artificial intelligency and logic. Sir Alan Touring&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -278,7 +294,7 @@
 
 
 
-&lt;div id=&#34;chart-653127894&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-312874596&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +312,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-653127894&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-312874596&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
